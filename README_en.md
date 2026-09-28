@@ -1,6 +1,6 @@
 # atsu-4444
 
-[日本語](README_ja.md) | English
+[日本語](README.md) | English
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atsu4.contact@gmail.com)
 [![SIGNATE](https://img.shields.io/badge/SIGNATE-0075C2?style=for-the-badge)](https://user.competition.signate.jp/ja/user/?user=c88dce2d5bc84ae0ab9c04fcfa4be876)
