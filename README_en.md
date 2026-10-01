@@ -51,12 +51,12 @@ I compared different ways to combine information from the face and background.
 
 ## 🌏 Projects
 
-### [SP!ED2026 — Food Freshness Assessment and Refrigerator Turntable](https://ire-asia.org/ire/spied/)
+### [SP!ED2026 — Food Freshness Assessment and Refrigerator Turntable](https://github.com/atsu-4444/spied2026-ai-freshness)
 
 In a team of students from Japan, China, and South Korea, we developed a product that assesses food freshness with AI and brings priority items to the front of a refrigerator.
 We focused on the problems of overlooked and hard-to-reach food, and our team received a Gold Award.
 
-### [SP!ED2025 — IoT App for Safer Pet Walks](https://ire-asia.org/ire/spied/index.php/spied2025/)
+### [SP!ED2025 — IoT App for Safer Pet Walks](https://github.com/atsu-4444/spied2025-dog-walk-safety)
 
 In a team of students from Japan, China, and South Korea, we developed an app that uses ground temperature to alert users to burn risks during pet walks.
 I mainly handled frontend development, and our team received a Silver Award.
